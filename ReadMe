@@ -1,0 +1,8 @@
+::Rock-Paper-Scissors::
+
+A JavaScript based Rock, Paper Scissors web game with rad images.
+
+- See game results each turn.
+- Keeps track of # of turns before a win.
+
+Work in progress. (Adding more gameover images)
